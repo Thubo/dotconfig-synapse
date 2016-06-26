@@ -1,0 +1,3 @@
+*
+!/.config/synapse/config.json
+!/.gitignore.d/synapse
